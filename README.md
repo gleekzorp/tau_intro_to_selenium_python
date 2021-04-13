@@ -5,6 +5,8 @@ https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
 # Docs
 
 - **Teacher's Repo:** https://github.com/AndyLPK247/tau-intro-selenium-py
+- **Selenium WebDriver:** https://selenium-python.readthedocs.io/
+- **Pytest:** https://docs.pytest.org/en/stable/
 - Writing Good Gherkin: https://automationpanda.com/tag/gherkin/
 
 # Setup
