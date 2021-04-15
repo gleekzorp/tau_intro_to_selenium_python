@@ -9,6 +9,7 @@ verify_ssl = true
 pytest = "*"
 autopep8 = "*"
 selenium = "*"
+pytest-xdist = "*"
 
 [requires]
 python_version = "3.8"
