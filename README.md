@@ -8,6 +8,7 @@ https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
 - **Selenium WebDriver:**
   - https://selenium-python.readthedocs.io/
   - https://selenium-python.readthedocs.io/api.html
+  - https://selenium-python.readthedocs.io/waits.html
   - https://www.selenium.dev/documentation/en/
 - **Pytest:** https://docs.pytest.org/en/stable/
 - Writing Good Gherkin: https://automationpanda.com/tag/gherkin/
