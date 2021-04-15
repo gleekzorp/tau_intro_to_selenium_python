@@ -9,6 +9,11 @@ https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/
 - **Pytest:** https://docs.pytest.org/en/stable/
 - Writing Good Gherkin: https://automationpanda.com/tag/gherkin/
 
+# Deeper Dives / Recommended Tutorials
+
+- https://testautomationu.applitools.com/web-element-locator-strategies/
+- https://testautomationu.applitools.com/ai-for-element-selection-erasing-the-pain-of-fragile-test-scripts/
+
 # Setup
 
 - Create a Virtual Environment
